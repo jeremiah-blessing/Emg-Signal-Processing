@@ -1,10 +1,11 @@
 # Instruction
 1. Download and Install Arduino IDE https://www.arduino.cc/en/main/software
-2. Open Arduino_calibration_code in Arduino_Code folder and upload the code to Arduino and find the calibration threshold value.
-3. Open Arduino_main_code  in Arduino_Code folder and set the calibration threshold value in the respective integer value and upload the code to Arduino.
-4. Now change the COM port of Arduino to COM5 through Device manager. 
-5. Now remove the Arduino and insert it again to restart the arduino code (This step is to make sure that the Arduino is connected in the right COM port)
-6. Now open the Hand_Sim_Final.exe in the folder and you can see the simulation once you contract your muscles.
+2. Download Prosthetic_Simulation.rar file and extract it.
+3. Open Arduino_calibration_code.ino in Arduino_Code folder and upload the code to Arduino and find the calibration threshold value.
+4. Open Arduino_main_code.ino  in Arduino_Code folder and set the calibration threshold value in the respective integer value and upload the code to Arduino.
+5. Now change the COM port of Arduino to COM5 through Device manager. 
+6. Now remove the Arduino and insert it again to restart the arduino code (This step is to make sure that the Arduino is connected in the right COM port)
+7. Now open the Hand_Sim_Final.exe in the folder and you can see the simulation once you contract your muscles.
 
 # Arduino Code
 
