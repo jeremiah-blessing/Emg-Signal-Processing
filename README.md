@@ -1,5 +1,5 @@
 # Emg Signal Processing
-EMG  Signal processing - Amplification - Integrating with Arduino - Serial Communication - Simulation / Game engine integration.
+To amplify, filter, process the EMG signal and integrate with computer through serial communication for practical applications.
 
 
 ## Abstract:
