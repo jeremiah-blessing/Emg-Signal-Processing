@@ -45,6 +45,12 @@ EMG signals can be processed by microcontrollers or microprocessor[in case of co
 4.	Arduino IDE – To Program Arduino Board
 5.	Serial Plotter –To calibrate the threshold value.
 
+## Team
+
+- Bhuvaneshwaran
+- Jeremiah Blessing
+- Rabin William
+
 
 
 
