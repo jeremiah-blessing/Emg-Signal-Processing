@@ -1,5 +1,5 @@
 1. Download and Install Arduino IDE https://www.arduino.cc/en/main/software
-2. Open Arduino calibration code in Arduino_Code folder and find the calibration threshold value.
+2. Open Arduino_calibration_code in Arduino_Code folder and find the calibration threshold value.
 3. Open Arduino_main_code  in Arduino_Code folder and set the calibration threshold value in the respective integer value.
 4. Upload the code to Arduino.
 5. Now change the COM port of Arduino to COM5 through Device manager. 
