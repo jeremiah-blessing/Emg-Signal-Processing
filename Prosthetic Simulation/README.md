@@ -1,6 +1,6 @@
 # Instruction
 1. Download and Install Arduino IDE https://www.arduino.cc/en/main/software
-2. Download Prosthetic_Simulation.rar file and extract it.
+2. Download the above Prosthetic_Simulation.rar file and extract it.
 3. Open Arduino_calibration_code.ino in Arduino_Code folder and upload the code to Arduino and find the calibration threshold value.
 4. Open Arduino_main_code.ino  in Arduino_Code folder and set the calibration threshold value in the respective integer value and upload the code to Arduino.
 5. Now change the COM port of Arduino to COM5 through Device manager. 
