@@ -1,4 +1,4 @@
-# emg_signal_processing
+# Emg_Signal_Processing
 EMG  Signal processing - Amplification - Integrating with Arduino - Serial Communication - Simulation / Game engine integration.
 
 
