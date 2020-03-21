@@ -1,6 +1,7 @@
 # Emg Signal Processing
 To amplify, filter, process the EMG signal and integrate with the computer through serial communication for practical applications.
 
+<img src="https://github.com/jeremiah-blessing/Emg-Signal-Processing/blob/master/Circuit.png" alt="circuit">
 
 ## Abstract:
 
