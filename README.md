@@ -49,7 +49,7 @@ EMG signals can be processed by microcontrollers or microprocessor[in case of co
 ## Team
 
 - Bhuvaneshwaran
-- <a href="https://github.com/RabinWilliam1">Jeremiah Blessing</a>
+- <a href="https://github.com/jeremiah-blessing">Jeremiah Blessing</a>
 - <a href="https://github.com/RabinWilliam1">Rabin William</a>
 
 
